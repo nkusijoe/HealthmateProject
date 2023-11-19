@@ -15,13 +15,13 @@ healthmate's **machine learning algorithms** analyze your health data to provide
 Clone the project
 
 ```bash
-  git clone https://github.com/sabzdotpy/niya.git
+  git clone https://github.com/nkusijoe/HealthmateProject.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd niya
+  cd HealthmateProject
 ```
 
 ### Install dependencies
@@ -53,18 +53,3 @@ Backend
 **Server:** Python, Flask
 
 
-## Screenshots
-
-<center>
-
-![Home page](https://github.com/sabzdotpy/niya/blob/main/src/assets/home_page.png)
-
-![All symptoms page](https://github.com/sabzdotpy/niya/blob/main/src/assets/all_page.png)
-
-![Related symptoms page](https://github.com/sabzdotpy/niya/blob/main/src/assets/rela_page.png)
-
-![Prediction page](https://github.com/sabzdotpy/niya/blob/main/src/assets/predi_page.png)
-
-![Quotes page](https://github.com/sabzdotpy/niya/blob/main/src/assets/quotes_page.png)
-
-</center>
